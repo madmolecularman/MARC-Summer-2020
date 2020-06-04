@@ -1,0 +1,38 @@
+---
+title: "Ideas"
+author: "Jacob M. Green"
+date: "5/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Thoughts and ideas for MARC summer
+
+* Online profiles
+    * Linkedin
+    * Websites
+* "Research presentations"
+    * Similar to my adobe spark presentation
+    * What is your spark
+* Outlining graduate school sections
+    * Application
+        * Personal statement
+        * Letter of Recommendation
+        * Application
+    * Contacting your potential advisor
+        * Networking at conferences
+        * "Cold call/email"
+        * Summer research experiences
+* Conversations about Diversity, Equity, Inclusion
+    * Bryan is an expert in this an may have some good excercises
+    * How to get our trainees on the same page
+    * Shared experiences
+    * Epistemology and pedagogy.
+* Finding a lab
+    * Reaching out to a PI
+    * Send Naomi's powerpoint
+* Send out a master list
+    * 
