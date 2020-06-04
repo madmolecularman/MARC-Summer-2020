@@ -56,9 +56,9 @@ Week | Day | Date     | Activity               | Time & Place       |
 
 Product                    | Complete by 12 pm on this date  |
 -------------------------- | ------------------------------- |
-Early Reflection           | June 15th                       |
-Mid Summer Reflection      | July 15th                       |
-Research Abstract*         | July 15th                       |
+Early Summer Reflection    | June 15th                       |
+Research Abstract*         | July 10th                       |
+Midsummer Reflection       | July 15th                       |
 Reseach Planning Guide*    | August 1st (or by arrangement)  |
 Finding a research lab**   | August 1st (or by arrangement)  |
 Draft Presentation         | August 17th                     |
