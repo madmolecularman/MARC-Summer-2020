@@ -1,10 +1,3 @@
----
-title: "MARC Summer Support Ideas"
-author: "Jacob M. Green"
-output:
-  word_document: default
-  html_document: default
----
 
 ## MARC Summer Support
 
@@ -66,7 +59,7 @@ Final Presentation         | August 21th                     |
 End of Summer Reflection   | August 27th                     | 
 
 
-* If in a research lab/returning MARC Scholar
-** If not in a research lab/new MARC Scholar
+(*) If in a research lab/returning MARC Scholar
+(**) If not in a research lab/new MARC Scholar
 
 Please email deliverable to gree9242@uri.edu
