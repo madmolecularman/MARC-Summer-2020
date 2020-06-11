@@ -11,12 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Thoughts and ideas for MARC summer
 
-* Online profiles
+* Online profiles and communication
     * Linkedin
     * Websites
+    * email handle
+    * writing emails
+    * 
 * "Research presentations"
     * Similar to my adobe spark presentation
-    * What is your spark
+    * What is your spark?
 * Outlining graduate school sections
     * Application
         * Personal statement
