@@ -1,0 +1,103 @@
+---
+title: "MARC Development Summer Session Planning Form"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Meet & Research Ethics |
+|--------------------------|--------------------------------|
+| Date created: 5/26/2020  | Date implemented: 6/01/2020    |
+| Week in course: 1        | Resources:                     |
+
+### Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+<br>    
+    a. Concepts
+      * Research ethics are central to carrying out good science
+      * Research ethics do not stop at the scientifc work and can typically effect interpersonal relationships
+      * Research ethics should establish standards that create good lines of communication
+<br>   
+    b. Skills
+      * Discussing research ethics with your fellow collaborators and mentors
+      * Recognizing "sticky" ethical situations
+      * How to propose solutions or compromises
+<br>    
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+    a. Research ethics not stopping at the scientific work
+    b. How to propose solutions or compromises
+<br>
+
+### Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+    * LO 1: Recognize that they have agency and control over the ethical research concerns within their projects
+    * LO 2: Recognize that there are institutional resources for them to appeal to if there is an issue with research ethics
+    * LO 3: Participate in ethical discussions and generate insight into their own ethical foundations
+    
+2. **Check-in**
+Allow for a 15-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+This session is taking place on google meet. Part of this time period will be used for casual conversation. By the first 10 minutes we will start introduction of Coordinators, then established Marc Trainees, and then the new MARC trainees. Trainees will be asked to describe:
+    * Name
+    * Major
+    * Research or research interest
+    * What would your superpower be and why?
+
+3. **Warm-up**
+Describe a 15-20 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+Questions: What do you want out of our summer meetings? Consider what you know about research, professional development, graduate school, and programming. 
+
+We are going to establish a KWL table which looks like:
+
+| Know | Want to know | Learn |
+|------|--------------|-------|
+|      |              |       |
+|      |              |       |
+|      |              |       |
+|      |              |       |
+|      |              |       |
+|      |              |       |
+|      |              |       |
+
+Using this KWL table we will create what we know about the topics and what we want to know. Attempt to create a category for each of these topics in the know and want to know section.
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (30-45 minutes) to help trainees achieve the learning objectives you have developed. 
+
+We are going to discuss research ethics, specifically the mentor-trainee relationship. There will be a short discussion about what ethics and morals are as defined by Francis Macrina "Scientific Integrity". Then propose a question one. Give them 3 minutes to write a response. Then propose a case study.
+
+Dr. Rhonda Archer mentors several undergraduates and graduates. One of her students, Gordon Krol, shows Rhonda data that suggest a novel property of an enzyme under study. Both Rhonda and Gordon believe this work has major implications for expanding the knowledge about this enzyme. At Rhonda’s request, Gordon repeats the experiments successfully. Then, because of the important implications of this work, Rhonda approaches a graduate student in the lab and asks her to perform the same experiments to double-check the results. Rhonda instructs the student not to discuss the experiments with anyone else in the lab in order to obtain independent data to confirm Gordon’s potentially important findings. When the student’s work is done, all data will be disclosed to all parties. Gordon hears the graduate student discussing this research with another graduate student in the lab? What is Gordon's responsibility? Are the dvisor’s actions justified? Why or why not? What other means could be used to achieve Rhonda’s need to confirm reproducibility?
+
+Question:
+1) What do you believe are the core values of the mentor-trainee relationship in science?
+2) Under what circumstances should a predoctoral trainee consider changing his mentor?
+3) What programs and resources does your institution provide to educate mentors about diversity and inclusivity in their role as research trainers? How do these compare to a few peer institutions of your choosing?
+
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+Open up free-form discussion for summer undergraduate research questions, goals, and concerns.
+
+### Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+
