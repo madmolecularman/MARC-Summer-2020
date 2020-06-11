@@ -45,7 +45,7 @@ Who are the key members of the MARC program? Create and organizational chart to 
 
 Organizational charts, like this example, help you to understand the heirarchy of an organization and your specific role. The boxes highlight key personnel and arrows indicate who reports to whom. Create your own organizational charts in the boxes below. Draw.io works wonders when making charts. **Add more boxes if necessary**
 
-![ ](MARC Organizational Chart.png)
+![ ](../images/MARC_Organizational_Chart.png)
 
 #### Part 2: The First Two Weeks
 

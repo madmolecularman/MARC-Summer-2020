@@ -2,8 +2,8 @@
 title: "MARC Research Planning Guide"
 author: "Jacob M. Green"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -44,7 +44,7 @@ Who are the key members of the lab or organization? Create and organizational ch
 
 Organizational charts, like this example, help you to understand the heirarchy of an organization and your specific role. The boxes highlight key personnel and arrows indicate who reports to whom. Create your own organizational charts in the boxes below. Draw.io works wonders when making charts. **Add more boxes if necessary**
 
-![ ](Organizational Chart.png)
+![ ](../images/Organizational Chart.png)
 
 #### Research Ethics and Permitting
 
