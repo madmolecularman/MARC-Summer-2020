@@ -30,26 +30,26 @@ Wrap-up's will be a closing opportunity that will help scholars summarize what w
 
 ### Schedule 
 
-Week | Day | Date     | Activity               | Time & Place       | 
----- | --- | -------- | ---------------------- | ------------------ |
-1    | MON | 06/08/20 | Succeeding in Research |                    |
-2    | MON | 06/15/20 | Graduate School        |                    |
-3    | MON | 06/22/20 | CV/Academic resume     |                    |
-4    | MON | 06/29/20 | Abstract Writing       |                    |
-5    | MON | 07/06/20 | Online Profile         |                    |
-6    | MON | 07/13/20 | Coding Necessities     |                    |
-7    | MON | 07/20/20 | Coding for Scientists  |                    |
-8    | MON | 07/27/20 | Bioinformatics I       |                    |
-9    | MON | 08/03/20 | Bioinformatics II      |                    |
-10   | MON | 08/10/20 | Research Communication |                    |
-11   | MON | 08/17/20 | Open workshop          |                    |
-11   | FRI | 08/21/20 | Virtual Presentations  |                    |
+Week | Day | Date     | Activity               | Time & Place           | 
+---- | --- | -------- | ---------------------- | -----------------------|
+1    | THU | 06/11/20 | Succeeding in Research | 5 - 630 pm, Google Meet|
+2    | THU | 06/18/20 | Abstract Writing       | 5 - 630 pm, Google Meet|
+3    | THU | 06/25/20 | Graduate School        | 5 - 630 pm, Google Meet|
+4    | THU | 07/02/20 | CV/Academic resume     | 5 - 630 pm, Google Meet|
+5    | THU | 07/09/20 | Online Profile         | 5 - 630 pm, Google Meet|
+6    | THU | 07/16/20 | Coding Necessities     | 5 - 630 pm, Google Meet|
+7    | THU | 07/23/20 | Coding for Scientists  | 5 - 630 pm, Google Meet|
+8    | THU | 07/30/20 | Bioinformatics I       | 5 - 630 pm, Google Meet|
+9    | THU | 08/06/20 | Bioinformatics II      | 5 - 630 pm, Google Meet|
+10   | THU | 08/13/20 | Research Communication | 5 - 630 pm, Google Meet|
+11   | THU | 08/20/20 | Open workshop          | 5 - 630 pm, Google Meet|
+11   | FRI | 08/21/20 | Virtual Presentations  | TBD                    |
 
 ### Deliverables
 
 Product                    | Complete by 12 pm on this date  |
 -------------------------- | ------------------------------- |
-Early Summer Reflection    | June 15th                       |
+Early Summer Reflection    | June 18th                       |
 Research Abstract*         | July 10th                       |
 Midsummer Reflection       | July 15th                       |
 Reseach Planning Guide*    | August 1st (or by arrangement)  |
