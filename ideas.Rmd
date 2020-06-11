@@ -38,4 +38,3 @@ knitr::opts_chunk$set(echo = TRUE)
     * Reaching out to a PI
     * Send Naomi's powerpoint
 * Send out a master list
-    * 

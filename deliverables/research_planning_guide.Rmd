@@ -101,7 +101,7 @@ First, think about the following:
 Now, take your ideas and use them to answer the following questions to create at least five goals for yourself. As you refine your goals, use strong action verbs that describe mastery of the outcome. For example, instead of saying “to learn about…” or “to participate in…” or “to study...” use strong action verbs such as “analyze”, “assess”, “evaluate”, etc. (see Table 1).
 
 | Table 1: Action Verbs for Outcome Statements |
-|----------------------------------------------|
+|------------|-------------|-------------------|
 | Analyze    | Apple       | Assess            |
 | Build      | Categorize  | Compile           |
 | Conduct    | Create      | Demonstrate       |
