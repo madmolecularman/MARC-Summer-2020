@@ -1,9 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
-
 ## MARC Summer Support 2020
 
 This respositry is developed by Jacob Green to organize and support MARC students over the Summer of 2020. I will be scheduling meetings, planning sessions, and other resources through this directory. If you have any questions please reach out to me at here gree9242@uri.edu. 
