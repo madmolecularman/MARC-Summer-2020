@@ -39,32 +39,33 @@ Week | Day | Date     | Activity               | Time & Place           |
 ---- | --- | -------- | ---------------------- | -----------------------|
 1    | THU | 06/11/20 | Succeeding in Research | 5 - 630 pm, Google Meet|
 2    | THU | 06/18/20 | Abstract Writing       | 5 - 630 pm, Google Meet|
-3    | THU | 06/25/20 | Graduate School        | 5 - 630 pm, Google Meet|
-4    | THU | 07/02/20 | CV/Academic resume     | 5 - 630 pm, Google Meet|
+3    | THU | 06/25/20 | CV/Academic resume     | 5 - 630 pm, Google Meet|
+4    | THU | 07/02/20 | Graduate School        | 5 - 630 pm, Google Meet|
 5    | THU | 07/09/20 | Online Profile         | 5 - 630 pm, Google Meet|
 6    | THU | 07/16/20 | Coding Necessities     | 5 - 630 pm, Google Meet|
 7    | THU | 07/23/20 | Coding for Scientists  | 5 - 630 pm, Google Meet|
 8    | THU | 07/30/20 | Bioinformatics I       | 5 - 630 pm, Google Meet|
 9    | THU | 08/06/20 | Bioinformatics II      | 5 - 630 pm, Google Meet|
 10   | THU | 08/13/20 | Research Communication | 5 - 630 pm, Google Meet|
-11   | THU | 08/20/20 | Open workshop          | 5 - 630 pm, Google Meet|
+11   | THU | 08/20/20 | Open session           | 5 - 630 pm, Google Meet|
 11   | FRI | 08/21/20 | Virtual Presentations  | TBD                    |
 
 ### Deliverables
 
 Product                    | Complete by 12 pm on this date  |
 -------------------------- | ------------------------------- |
-Early Summer Reflection    | June 18th                       |
-Research Abstract*         | July 10th                       |
-Midsummer Reflection       | July 15th                       |
-Reseach Planning Guide*    | August 1st (or by arrangement)  |
-Finding a research lab**   | August 1st (or by arrangement)  |
+Early Summer Reflection    | June 25th                       |
+Updated CV/Academic Resume | July 9th                        |
+Midsummer Reflection       | July 23rd                       |
+Reseach Planning Guide*    | August 6th (or by arrangement)  |
+Finding a research lab**   | August 6th (or by arrangement)  |
+Coding project             | August 13th                     |
 Draft Presentation         | August 17th                     |
-Final Presentation         | August 21th                     |
+Final Presentation         | August 20th                     |
 End of Summer Reflection   | August 27th                     | 
-
+Research Abstract*         | September 11th (ABRCMS site)    |
 
 (*) If in a research lab/returning MARC Scholar
 (**) If not in a research lab/new MARC Scholar
 
-Please email deliverable to gree9242@uri.edu
+Please email deliverables to gree9242@uri.edu
