@@ -1,8 +1,8 @@
 ---
 title: "MARC Succeeding in Research Session"
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -46,12 +46,19 @@ I planned this session to be about your goals, but I want to talk about the elep
 
 COVID-19 and protests in support of BLM have created spaces where we need to have difficult conversations about our health, our safety, and our rights as people and our rights as researchers in STEM. I do not want to shy away from those coversations. I would like you all to feel comfortable in this community sharing your thoughts, concerns, and wants. That is to say this is a place were we respect the thoughts and ideas of other fully. We can take as much time as we need to discuss because what we are doing for research is changing rapidly, but we can always develop and discuss "Why" we do research, which can motivate, activate, and embolden us to push further than we could before.I want you all to know that I and the MARC coordinator team are here to support you whenever you need it, but right now, if you feel comfortable, I'd like to hear your thoughts and concerns. 
 
+Go over Github Readme
+
 Questions: What is one thing that you are excited or confident about? What is one thing that you are curious about? What is one thing that you are confused about? (5 minutes to write and think & 15 minutes to share)
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
 List 3 research goals for this summer. 6 minutes to develop, 8 minutes to discuss
+
+Time management
+Reading research papers
+Outline of project
+
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed. 
@@ -156,10 +163,20 @@ Once you have hosted the session and completed the reflection share your complet
 
 **1. What worked in the session? What was successful?**
 
+I felt that the time we took in the beginning for the trainees to talk about their concerns or thoughts was good. I am not sure if I approached that in a good way, but it seemed to allow some of them to talk thorugh these issues with other. I hope it also showed that we are a community that is invested in their dialouge. I also felt that the goal setting excercise went well. For them to articulate their goals and share them with the group is good. This way they can hold each other accountable. The section on SMART goals allowed Avery and Tyrus to advise and explain some of their own knowledge. We were also able to hear about how Dr. Dewsbury approaches goal setting which was enlightening too.
+
 **2. What did trainees learn? How do you know?**
+
+I was able to walk through the github site with the trainees. We covered the readme/syllabus, the deliverables folder, schedule, and the deliverables themselves. I provided ample time to discuss any questions of which I know there will be more. There were questions on the research planning guide which I will continue to clarify as I move forward. I will also be checking in with them next week on how they have reflected on their goals and transitioned them to SMART goals.  
 
 **3. What would you change about your session today?**
 
+Move more quickly through the github site. This took up a bit of time that we could have spent on goal setting, but I felt as if it was important because this is a new system that they will be using. Many of them are unfamiliar with it. It may be helpful at some point and time to model how I edit documents and push changes to the site. 
+
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
 
+I recommended that trainees begin to work on their early summer reflection, begin to populate the research planning or finding a lab guide, as well as reformat their goal to be SMART. 
+
 **5. What are you considering as good use of next week's session?**
+
+We will spend the majority of time focusing on writing abstracts. I will use the CARS model, and abstracts powerpoint to help communicate these ideas. I need to come up with an excercise that will cater to both returning and new MARC trainees when it comes to writing abstracts. Some will have background knowledge, material, and data to write it, others will not. I can have people who dont want to write an abstract review a bad abstract and re-write it. 
