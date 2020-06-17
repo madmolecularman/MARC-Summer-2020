@@ -11,8 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
-| Date created:6/15/2020   | Date implemented:6/18/2020     |
-| Week in course:2         | Resources: Asher, UROC         |
+| Date created:6/15/2020   | Date implemented:7/02/2020     |
+| Week in course:4         | Resources: Asher, UROC         |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
@@ -53,8 +53,6 @@ Year Two:
 
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
-
-Share reworked SMART goals.
 
 Questions: What is one thing that you are excited or confident about? What is one thing that you are curious about? What is one thing that you are confused about? (5 minutes to write and think & 10 minutes to share)
 
