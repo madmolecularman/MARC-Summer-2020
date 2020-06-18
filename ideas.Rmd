@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
     * Websites
     * email handle
     * writing emails
-    * 
 * "Research presentations"
     * Similar to my adobe spark presentation
     * What is your spark?
