@@ -1,5 +1,5 @@
 ---
-title: "MARC Session Planning Form"
+title: "MARC CV/academic resume session"
 output:
   word_document: default
   html_document: default
@@ -11,18 +11,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
-| Date created:            | Date implemented:              |
-| Week in course:          | Resources:                     |
+| Date created:6/22/2020   | Date implemented:6/25/2020     |
+| Week in course:3         | Resources:                     |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 
 1. List the most important concepts and skill introduced in this topic
     a. Concepts
-
+      * You will be using the CV for the rest of your academic career to communicate your interests, experiences, accolades, and other facets of your scholarly achievements to potential schools, jobs, and some professions.
+      * CV is academic work, Academic resume is a fusion of your academic work and job experience in total.
+      
     b. Skills
+      * Generating a good format for your CV.
+      * Using the proper language to describe research interests and experiences.
+      * Deciding what to include on your CV or academic resume.
 
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+Using descriptive language for their research positions.
 
 ## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
 When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
@@ -33,11 +40,43 @@ Describe what you would like to see your trainees be able to do by the end of yo
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
+Updates from these three questions:
+
+Travel grants: Yes absolutely apply for travel grants. Just be aware that there is most likely going to be complications and inconsistencies with travel for the rest of this year. Also, be transparent in your application about you being a MARC trainee. 
+
+Timesheets: Niall and Bryan are going to be checking in with you individually about your responsibilities moving forward. The necessary information for timesheets are: submit monthly lab logs and these are signed by your faculty mentor and then sent to Niall and Bryan.
+
+Pay: I am still waiting to hear from barbara.
+
+Lets check-in: What has this week brought about for you all? Good things, challenging things, concerns?
+
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
+I'd like you to list these categories with dates:
+Research Interests
+Research Experience
+Education and Professional Experience
+Leadership opportunities
+Honors & Awards
+Coursework
+Service
+
+These will act as headings for your CV. This would also include location and date. 
+
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+Discussion:
+What is a curriculum vita?
+Curriculum Vita vs. Resume?
+What is an Academic Resume?
+What’s in a CV?
+What should NOT be in a CV?
+Within the CV, how should the descriptions be constructed?
+
+Activity:
+We are going to develop and outline for a CV or academic resume.
 
 5. **Wrap-up**
 Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 

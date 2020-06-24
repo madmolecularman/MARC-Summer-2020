@@ -42,15 +42,22 @@ I would like all trainees to be able to define and identify the different uses a
 
 2) I would like new trainnes to articulate a motivation for their research idea or question. 
 
-Both can articulate more but with limited time I am not expecting them to even structure these ideas. The goal is to spend 15 minutes on word vomitting imotivation for research.
+Both can articulate more but with limited time I am not expecting them to even structure these ideas. The goal is to spend 15 minutes on word vomitting motivation and methodology for research.
 
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
 Today we are discussing abstracts and we have two options. Option 1: We will discuss abstracts and what you all know about them, define the use and structure of abstracts, and have some time to develop abstracts. Option 2: At 6-7 pm there is an event "Writing a Compelling Abstract" hosted by ABRCMS & ASM here: https://www.pathlms.com/asm/courses/15609/sections/21487. If you would like to continue to write and have me available from 6 - 630 pm I am more than happy to stay here an answer question. I also think it would be beneficial to attend the abstract session for ASM as this is the organization we will be sending abstracts to for the conference. 
 
-I also want you to know that alongside ABRCMS there are other organizations. SACNAS, the Society for the Advancement of Native Americans and Chicanos in Science, is an organization that I have been apart of since 2015 and is the first place that I presented my research. They also have a fall 202 conference in Long Beach, which also might be reworked due to COVID. Still their deadline for presenting a poster or oral presentation would be July 15th. 
+I also want you to know that alongside ABRCMS there are other organizations to present at. SACNAS, the Society for the Advancement of Native Americans and Chicanos in Science, is an organization that I have been apart of since 2015 and is the first place that I presented my research. They also have a fall 2020 conference in Long Beach, which also might be reworked due to COVID. Still their deadline for presenting a poster or oral presentation and a travel award would be July 15th. 
+
 Share reworked SMART goals.
+
+Are they allowed to apply for travel grants lets say for travel. SOT in march. SACNAS. 
+
+Timesheets for trainees new and returning. Format and who to send to. Who is going to sign? Forward timesheet to all trainees.
+
+check in for direct deposit and how that is going to work with the new trainees?
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
@@ -58,6 +65,12 @@ Describe a 10-15 minute opportunity that will help trainees to organize, priorit
 We are going to use what is called a KWL table. Anyone familiar with this strategy? It is a table. KWL stands for know, want to know, and learn. We will spend the next 5 minutes writing what you know and want to know about abstracts. At the end of the session we will take time to reflect on what we can move into the learn category.
 
 6-10 minutes discussing those ideas.
+
+Know: Length, introduces the topic at a beginner level, main claims, summarizes how research contribution, brief summary and data point, methods, hypothesis, conclusions
+
+Want: how does it different from an introduction, appropriate level with audience not using jargon, reference/citation, what parts of your research to include, detail for materials and methods.
+
+Learn: 
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
@@ -69,14 +82,24 @@ Utilize Powerpoint
 Questions:
 
 1) What are the uses of abstracts?
+    * used in papers
+    * abstracts with pictures
+    * submitting to conference
+    * communicating oral/ted talk/prep for publishing
+    * lab stuff
 
 2) What is the format of abstracts?
 
+
 3) What are areas you can add if you aren't done with your research?
+
 
 #### Part 2: Activites for review or creation of abstracts
 
 1) Review abstracts 
+    * Unclear about what to do
+    * Highlight sections of the abstracts
+    * Need to be more intentional with the sections of an abstract
 
 2) Word vomit research motivation and methodology
 
@@ -85,16 +108,62 @@ Describe a 10-15 minute closing opportunity that will help trainees summarize th
 
 Reflect on what to move from the want to know category to the learn category or add things that you learned. What else do you still want to know or feel like we have not addressed?
 
+Reminder:
+Early Summer Reflection June 25th.
+CV/academic resume next week.
+
+Send summary of the webinar to the trainees
+
+References : don't add them
+It is your single interpretation of the field for the purpose and introduction
+For methods and the like you want to be general enough for a lay person to understand this work.
+The abstract should flow logically and the reader can tell where you are going
+More concerned about your ability to communicate your science and not the impact of your science
+You want to describe in broad terms what has been done in the field.
+Can have some reference to the work. 
+No paraphrase, no quoting
+
+
 ## Step 3: Reflect on this week's session
 Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
 
+We spent 30 minutes at the beginning of the session discussing travel grants, timesheets, payroll, and generally some of the more administrative aspects of being a MARC trainee. Returning trainees were able to articulate their own struggles operating within this program. 
+
+These were the questions generated from the KWL that I wanted to answer here:
+
+1) How does it [abstracts] different from an introduction?
+Abtracts differ from an introduction in that they include every aspect of your research not just the background. Each abstract will have a background, research question, material and methods, data/results, and a conclusion.
+
+2) What is the appropriate level with audience not using jargon? 
+The easiest way to gauge this is three fold. I would first read and review the papers that your research is founded on. The language conventions and strategies those papers use you can emulate. That doesn't mean you can't be creative in this approach, but you can use these as guidelines. The second way is to review abstract submissions from previous conferences. Most student focused conferences will have previous year submissions available. Lastly, if the organization runs workshops attend them. They will give you some guidance on the type of language. 
+
+3) Use reference/citation?
+The typical convention is to not use references or citations. If you need to references process's think about whether you can use the common name for that process or if it is so specfic using in text citation. 
+
+4) what parts of your research to include? 
+You will include background research/literature review, research question you came up with, hypothesis for your experiment, methods used for your experiment, data obtained, outcome of data and trends, and broader conclusion from your work.
+
+5) Detail for materials and methods?
+This is a hard balance. You do not want to get down into the weeds when describing your materials and methods. There are ways to be brief but specific when defining your methods. Remember you have at max 2 -3 sentences for each section. Use that space wisely.
+
+
 **1. What worked in the session? What was successful?**
+
+I think that those trainees who were want to write abstracts got time to actually sit down and begin to think about these concepts. I felt good about the KWL in the beginning that allowed the trainees to share what they knew and what they wanted to know. 
 
 **2. What did trainees learn? How do you know?**
 
+Trainees learned that abstract have defined sections and good abstracts make those sections clear and definable. I know this because those who choose to read other abstracts talked about how difficult it was to read some of the abstracts when they blended those sections together. There was also input from those that wrote abstracts that writing directly from your brain about your research is difficult. Being able to reference back to your background material and other data is needed.
+
 **3. What would you change about your session today?**
+
+I would change how we went through the abstract information. I would have directly gone through the questions that they posed and approached them 1 by 1. I spent a bit of time creating a powerpoint that I don't think is effective with online learning, although maybe I am just not used to using it effectivfely. 
 
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
 
+I recommended that they review their CV/academic resumes, early summer reflections, and continue to think about their SMART goals for the summer. 
+
 **5. What are you considering as good use of next week's session?**
+
+Next week we will be covering what CV/academic resumes are and giving some time to update each of these documents. 
 
