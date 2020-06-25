@@ -19,23 +19,29 @@ Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 
 1. List the most important concepts and skill introduced in this topic
     a. Concepts
-      * You will be using the CV for the rest of your academic career to communicate your interests, experiences, accolades, and other facets of your scholarly achievements to potential schools, jobs, and some professions.
-      * CV is academic work, Academic resume is a fusion of your academic work and job experience in total.
+      * You will be using the CV for the rest of your academic career to communicate your interests, experiences, accolades, and other facets of your scholarly achievements to potential schools, jobs, and some professions
+      * CV is academic work, Academic resume is a fusion of your academic work and job experience in total
+      * Paralellism: keeping a consistent structure to your phrases and/or sentences throughout your document
+      * Gapping: use of incomplete sentences in order to present you information as clearly and concisely as possible
       
     b. Skills
-      * Generating a good format for your CV.
-      * Using the proper language to describe research interests and experiences.
-      * Deciding what to include on your CV or academic resume.
+      * Generating a good format for your CV
+      * Using the proper language to describe research interests and experiences
+      * Deciding what to include on your CV or academic resume
 
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
 
-Using descriptive language for their research positions.
+a) Using descriptive language for their research positions
+b) Developing a consistent style and structure throughout the document
+c) Gapping
 
 ## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
 When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
 
 1. **Session Learning Objectives**
 Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+I would like trainees to develop at minimum an outline of their CV or academic resume. If trainees have developed a CV before I would like them to add their current summer research and review the foramtting they have for their CV. Additionally the language you use to decribe your position should be active and specific. The concepts of parralellism and gapping is important to consider.
 
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
@@ -46,14 +52,61 @@ Travel grants: Yes absolutely apply for travel grants. Just be aware that there 
 
 Timesheets: Niall and Bryan are going to be checking in with you individually about your responsibilities moving forward. The necessary information for timesheets are: submit monthly lab logs and these are signed by your faculty mentor and then sent to Niall and Bryan.
 
-Pay: I am still waiting to hear from barbara.
+Pay: I am still waiting to hear from barbara. Have you heard from her this past week?
+
+ASM webinar:
+Specifically for ABRCMS: July 31st and August 5th
+Student travel: August 20th
+Abstract: Sept 11th
+
+It has been difficult
+No matter what research experience you can show your scientific prowess
+Lack of research or clinical experiences
+Absence from your science
+Lack of mentorship
+Limits to practicing
+
+Your abstract quality is not completely defined by the quality or amount of research. It is defined by developing a compelling argument. 
+
+Format/structure:
+Use a funnel approach to your introduction
+Describe methods
+Map results back to the methods
+Conclusion
+
+References : don't add them (Previous research)
+No paraphrase, no quoting
+It is your single interpretation of the field for the purpose and introduction
+For methods and the like you want to be general enough for a lay person to understand this work.
+The abstract should flow logically, use the given structure, and the reader can tell where you are going
+More concerned about your ability to communicate your science and not the impact of your science
+You want to describe in broad terms what has been done in the field.
+Can have some reference to the work. 
+Stay broad and use qualifiers with your conclusions if you don't have significant results.
+
+
+Answer specific question from last week:
+1) How do abstracts different from an introduction?
+Abtracts differ from an introduction in that they include every aspect of your research not just the background. Each abstract will have a background, research question, material and methods, data/results, and a conclusion.
+
+2) What is the appropriate level with audience not using jargon? 
+The easiest way to gauge this is three fold. I would first read and review the papers that your research is founded on. The language conventions and strategies those papers use you can emulate. That doesn't mean you can't be creative in this approach, but you can use these as guidelines. The second way is to review abstract submissions from previous conferences. Most student focused conferences will have previous year submissions available. Lastly, if the organization runs workshops attend them. They will give you some guidance on the type of language. 
+
+3) Use reference/citation?
+The typical convention is to not use references or citations. If you need to references process's think about whether you can use the common name for that process or if it is so specfic using in text citation. 
+
+4) what parts of your research to include? 
+You will include background research/literature review, research question you came up with, hypothesis for your experiment, methods used for your experiment, data obtained, outcome of data and trends, and broader conclusion from your work.
+
+5) Detail for materials and methods?
+This is a hard balance. You do not want to get down into the weeds when describing your materials and methods. There are ways to be brief but specific when defining your methods. Remember you have at max 2 -3 sentences for each section. Use that space wisely.
 
 Lets check-in: What has this week brought about for you all? Good things, challenging things, concerns?
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
-I'd like you to list these categories with dates:
+I'd like you to list your experiences within these categories with location and dates:
 Research Interests
 Research Experience
 Education and Professional Experience
@@ -61,8 +114,6 @@ Leadership opportunities
 Honors & Awards
 Coursework
 Service
-
-These will act as headings for your CV. This would also include location and date. 
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
