@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
 | Date created:6/15/2020   | Date implemented:7/02/2020     |
-| Week in course:4         | Resources: Asher, UROC, FIles  |
+| Week in course:4         | Resources: Asher, UROC, Files  |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
@@ -83,6 +83,7 @@ Apply to graduate school:
 5) Communication with Program or Mentor
 6) Scholarships and Fellowships
 7) CV
+8) Online profile?
 
 Application to acceptance:
 1) Relevant updates and achievements sent to graduate school and mentor
