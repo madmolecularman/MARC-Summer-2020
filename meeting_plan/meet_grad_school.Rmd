@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
 | Date created:6/15/2020   | Date implemented:7/02/2020     |
-| Week in course:4         | Resources: Asher, UROC         |
+| Week in course:4         | Resources: Asher, UROC, FIles  |
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
@@ -73,11 +73,31 @@ I recommend that you start to organize your schools with an excel spreadsheet. O
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed. 
 
+Apply to graduate school:
+1) Personal Statements
+2) Letters of Recommendations
+3) Application
+    * Information
+    * Transcripts
+4) Standardized tests (maybe)
+5) Communication with Program or Mentor
+6) Scholarships and Fellowships
+7) CV
+
+Application to acceptance:
+1) Relevant updates and achievements sent to graduate school and mentor
+
+Being in graduate school:
+1) Mentor Relationship
+2) Assistantships
+3) Coursework
+4) Qualifying Exam
+5) Comprehensive Exam
+6) Dissertation 
+
 #### Part 1: What are your questions regarding graduate school?
 
 #### Part 2: Building a graduate school timeline.
-
-
 
 5. **Wrap-up**
 Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
