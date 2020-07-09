@@ -19,10 +19,20 @@ Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 
 1. List the most important concepts and skill introduced in this topic
     a. Concepts
+        * Online profiles can act as "extra" CV information
+        * Sites can increase and expand your science communication
+        * Communicate aspects of your identity that are missed on applications and CV's
 
     b. Skills
+        * Scouring the web for your current visibility
+        * Reworking your current Online Profile
+        * Building new sites
 
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+Concept: That online profiles can communicate aspects of your identity that are missed on applications and CV's. This take work and time to develop presentations, write-ups, blog posts, posters, and even to create the site.
+
+Skill: Building new sites. To some extent this is similar to the concept above.
 
 ## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
 When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
@@ -30,19 +40,34 @@ When planning your sessions remember to stay flexible with the actual implementa
 1. **Session Learning Objectives**
 Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
 
+* Have an idea of what their current online profile is like
+* Rework their current profiles like Facebook, Linkedin, Instagram, and other social media platforms that they use.
+* Create Researchgate profile
+* Create Blog site
+
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
+Scour the internet using your favored search engine and typing in your name. You can add qualifiers like state and school to help narrow the search. Act like you are a PI investigating yourself. Make sure to also look into the images search as well.
+
+What did you find? Can you actually find yourself? Did anything surprise you?
+
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+#### Part 1: List your current social media platforms and search through those profiles
+#### Part 2: What do these platforms say about you? Come up with a 2-3 sentence explanation
+#### Part 3: Now go and update those platforms similar to the approach you took for your CV
+#### Part 4: Think about making a blog site. Weebly and Wordpress are free with ads.
+#### Part 5: Develop a structure for those sites see https://madmolecularman.wordpress.com
 
 5. **Wrap-up**
 Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
 
-Reflect on what to move from the want to know category to the learn category or add things that you learned. What else do you still want to know or feel like we have not addressed?
+What in this Professional Development Section of our summer session worked well? What didn't? What would you like to see more of? What would you like me to implement?
 
 ## Step 3: Reflect on this week's session
 Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
