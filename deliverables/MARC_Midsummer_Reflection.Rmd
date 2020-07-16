@@ -1,7 +1,7 @@
 ---
 title: "MARC Midsummer Reflection"
 author: "Jacob M. Green"
-date: "6/3/2020"
+date: "7/14/2020"
 output:
   word_document: default
   html_document: default
@@ -11,18 +11,32 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Themes and prompting questions:
+## Where are you at and where are you going?
 
-Theme 1:  Reflect on what you have accomplished, and what you still must accomplish to reach your summer goals.
+The midpoint during summer research can feel like a blur. You look back and ask yourself how you got here and you look forward and think there is still another month and a half?! In times like this it is important to remind ourselves what we have done, what we are doing, and what our motivations are moving forward. Reflecting, writing, and communicating our tribulations, our progress, and our accomplishments are integral to formulating personal statements. The themes and questions below are to help generate your reflective self. You are not limited by the outline they provide.
 
-Theme 2:  Reflect on what you have learned about yourself as a scholar and writer through participating in this summer research experience.
+**Be thorough** Your total statement should be between 500 and 600 words, but feel free to write more if you would like.
 
-Theme 3:  Reflect on how the support of your mentors and peers has influenced your summer research experience.
+**Be positive:** Write about what you do believe, not what you don’t believe. Avoid statements of religious dogma, preaching, or editorializing.
+
+**Be personal:** Make your essay about you; speak in the first person. Avoid speaking in the editorial “we.” Tell a story from your own life; this is not an opinion piece about social ideals. Write in words and phrases that are comfortable for you to speak. Read your essay aloud to yourself several times, and each time edit it and simplify it until you find the words, tone, and story that truly echo your belief and the way you speak.
+
+### Themes and prompting questions (things to reflect on)
+
+Theme 1: What you have accomplished, and what you still must accomplish to reach your summer goals? While you are thinking about this, make a list of "many things I am proud of."
+
+Theme 2: What you have learned about yourself as a scholar, researcher, or writer through participating in this summer research experience?
+
+Theme 3: How has the support of your mentors and peers has influenced your summer research experience? Make a list of people who you have had the most contact with over this summer? Are these realtionships positive, negative, complex? 
+
+Theme 4: What are your career goals? Not all who pursue research and/or graduate school have a specific career direction in mind. It is ok to be open to different possibilities. Consider why you have chosen the particular path you are now pursuing and make a list of real reasons for doing so. Think about the 5 year, 10 year, 15 year plan. Do not get hung up on the details; think about the larger picture.
+
+### Prompting Questions (things to answer)
 
 Prompting question 1: What is your most important accomplishment to date and how has it influenced you?
 
 Prompting question 2: What work or academic experiences have led you to believe you would like to pursue research and/or graduate school?
 
-Prompting question 3: How has the support you recieved or the support you have given benefitted or hindered you summer research experience?
+Prompting question 3: How has the support you recieved or the support you have pursued benefitted or hindered your summer research experience?
 
-Please write a response to each question. Response should be a minimum of 600 words total, but feel free to expand as much as you want.
+Prompting question 4: What career goal excites you the most? How do you see yourself in that role?

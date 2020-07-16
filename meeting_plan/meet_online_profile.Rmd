@@ -48,6 +48,8 @@ Describe what you would like to see your trainees be able to do by the end of yo
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
+Update them about Midsummer reflection.
+
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
 
@@ -57,6 +59,8 @@ What did you find? Can you actually find yourself? Did anything surprise you?
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+*See powerpoint*
 
 #### Part 1: List your current social media platforms and search through those profiles
 #### Part 2: What do these platforms say about you? Come up with a 2-3 sentence explanation
@@ -74,11 +78,26 @@ Once you have hosted the session and completed the reflection share your complet
 
 **1. What worked in the session? What was successful?**
 
+The check-in and warm up were sucessful in that these are two areas where trainees discussed and talked the most. The check-in had a lot to update so I tried a more direct introduction and then open forum. I think I should ask a more direct question to spur the check-in conversation. The warm-up was cool to gauge where their thoughts where at about social media and how it is used. There is a mix here from open social media profiles to tothers wanting it to be private. There was also concern about how social media is used by employers.
+
 **2. What did trainees learn? How do you know?**
+
+Trainees knew that social media can impact your job prospects or position. In large part this was viewed as a negative. They learned that there is a positive side to this in that you can curate your scholarly identity through MARC announcements and building their own research blog. 
 
 **3. What would you change about your session today?**
 
+I think the main activty fell flat. I also thin kthat I did not hold a credible position in this activity. I should have walked them through an example of an online profile using myself as an example. In one of the trainees asking me about her own profile I decided to use her as an example. Do not do this. Use yourself as the example or other researchers you know. I would have broken it up to. A shorter activity in a search and make sure everything is ok and then a transition to a longer part being about making a research blog. If they did have a research blog ask them to update it or beign contributing more frequently.
+
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
 
+Unfortuantely, I was so rattled and upset at myself at the end of last session that I didn't articulate our transition to coding. I did ask them to reflect on two questions:
+
+1) What do you want your online profile to say about you? 
+2) How can you develop this identity through your research?
+
+Maybe I can use these questions as a starting point for the coding excercise?
+
 **5. What are you considering as good use of next week's session?**
+
+We are focusing on the coding necessities in Unix. I will be walking them through the basic command line functions and structure.
 
