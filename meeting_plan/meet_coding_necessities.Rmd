@@ -48,7 +48,9 @@ Allow for a 10-20 minute period where trainees are able to communicate with coor
 
 2) Share accomplishments and concerns
 
-3) Questions about the professional de3velopment portion
+3) Questions about the professional development portion
+
+4) Midsummer Reflection document is up and ready to go
 
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
@@ -72,11 +74,51 @@ Once you have hosted the session and completed the reflection share your complet
 
 **1. What worked in the session? What was successful?**
 
+The check-in for the session went very well. In weeks previous I left the check in fairly open ended and it made the discussion less focused and less constructive. By asking a series of question it allowed for us to discuss more specific concerns. Also, I felt that the coding excercise went fairly well, especially considering it was my first time walking a group of people through these excercises. We left time for questions and active discussion in specific areas that slowed us down, but in a way that increased engagement and showcased trainee knowledge and experiences in this subject.
+
 **2. What did trainees learn? How do you know?**
+
+Trainees learned the following
+
+| Term     | What it is          |
+|:----------:|------------------|
+| **`path`** | the address system the computer uses to keep track of files and directories |
+| **`root`** | where the address system of the computer starts, **`/`** |
+| **`home`** | where the current user's location starts, **`~/`**|
+| **`absolute path`** | an address that starts from a specified location, i.e. root, or home |
+| **`relative path`** | an address that starts from wherever we are |
+| **`tab-completion`** | our best friend |
+
+
+<h4><i>Commands introduced:</i></h4>
+
+|Command     |Function          |
+|:----------:|------------------|
+|**`date`**| prints out information about the current date and time |
+|**`head`**| prints out the first lines of a file |
+|**`pwd`**       |prints out where we are in the computer (**p**rint **w**orking **d**irectory)|
+|**`ls`**        |lists contents of a directory (**l**i**s**t)|
+|**`cd`**| **c**hange **d**irectories |
+
+
+<h4><i>Special characters introduced:</i></h4>
+
+|Characters     | Meaning          |
+|:----------:|------------------|
+| **`/`** | the computer's root location |
+| **`~/`** | the user's home location |
+| **`../`** |specifies a directory one level "above" the current working directory|
+
 
 **3. What would you change about your session today?**
 
+There is not much I would change. I was ambitious in thinking we would get through 2 examples. I am still feeling ambitious in thinking we will get through 2 in the next lesson. This would leave some session open. I am going to have to balance what we can get to. The bioinformatics stuff might have to be another session in the week added to the last two weeks.
+
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
 
+I recommended that they attempt to download a terminal program (if necessary) and get familiar with the commands provided in the first lesson.
+
 **5. What are you considering as good use of next week's session?**
+
+Next weeks session we will work lesson 2 (working with files and directories) and lesson 3 (Redirectors and wildcards). If we can work through those we may be able to touch of the six glorious commands. I will also be assigning 3 excercises for them to compelte between the two sessions.
 
