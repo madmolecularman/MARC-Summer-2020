@@ -29,14 +29,14 @@ knitr::opts_chunk$set(echo = TRUE)
         * "Cold call/email"
         * Summer research experiences
 * Conversations about Diversity, Equity, Inclusion
-    * Bryan is an expert in this an may have some good excercises
+    * Coordinator is an expert in this an may have some good excercises
     * How to get our trainees on the same page
     * Shared experiences
     * Epistemology and pedagogy.
 * Finding a lab
     * Reaching out to a PI
-    * Send Naomi's powerpoint
+    * Send powerpoint
 * Send out a master list
 * RCR training 
 * Keep a pulse on the need of the students
-* 
+
