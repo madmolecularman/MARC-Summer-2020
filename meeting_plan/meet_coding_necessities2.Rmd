@@ -1,0 +1,87 @@
+---
+title: "MARC coding necessities 2"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Leader Name: Jacob Green | Course: Planning form temp     |
+|:------------------------:|--------------------------------|
+| Date created:7/21/2020   | Date implemented:7/23/2020     |
+| Week in course:7         | Resources:Happy Belly Bioinformatics|
+
+## Step 1: Meet with coordinators and discuss the following:
+Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
+
+1. List the most important concepts and skill introduced in this topic
+    a. Concepts
+        * What is a plain-text file?
+        * Directory systems
+        * Difference between copying and moving files
+        * How piping/redirection works
+        * **'Wildcards?!'**
+
+    b. Skills
+        * Using commands to manipulate files
+        * Utilizing nano and not getting lost
+        * Leveraging wildcards for easy searching
+        * (Possibly) Six glorious commands
+
+2. Which concepts and skills can be the most challenging for researchers this week? Why?
+
+Concept: Navigating and restructuring directory systems in the command line starts for the foundation of understanding what that system looks like and then being able to change it. While the commands for doing this are not difficult to implement, visualizing the result before entering the command is important.
+
+Skill: Nano. Any text editor in the command line can be a challenge. Nano is the easiest but also has less functionality than something like VIM. I won't throw the trainees into the dark abyss that is VIM. Being able to navigate into and out of nano comfortably helps. We will focus on that. 
+
+## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
+When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
+
+1. **Session Learning Objectives**
+Describe what you would like to see your trainees be able to do by the end of your sessions? Use the list of concepts and skills you identified in Step #1. 
+
+I would like trainees to be able to create a file in nano and save that file. They would also be able to copy, move, or delete said file.
+
+2. **Check-in**
+Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
+
+1) How are you doing this week?
+2) What are you accomplishments this week? What are your concerns?
+3) Did you try to join the BVCN group on slack?
+4) Did anyone have issues starting up a terminal on their system?
+
+3. **Warm-up**
+Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+What are the commands, concepts, or skills that were most interesting to you? Why?
+    * Commands: date, head, pwd, ls, cd, find
+    * Concepts: Paths (abs. vs rel.), root, home, tab-completion
+    * Skills: Running commands, navigating directory structures
+
+4. **Most of the session time**
+Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
+
+We will work through lesson 2 and 3 from Happy Belly Bioinformatics, https://astrobiomike.github.io/unix/working-with-files-and-dirs, using this binder instance https://mybinder.org/v2/gh/AstrobioMike/binder-unix-intro/master?urlpath=lab.
+
+5. **Wrap-up**
+Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
+
+What was the easiest concept today? Why?
+What was the most difficult? Why?
+
+## Step 3: Reflect on this week's session
+Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
+
+**1. What worked in the session? What was successful?**
+
+**2. What did trainees learn? How do you know?**
+
+**3. What would you change about your session today?**
+
+**4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+**5. What are you considering as good use of next week's session?**
+

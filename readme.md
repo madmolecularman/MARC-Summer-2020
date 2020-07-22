@@ -37,7 +37,7 @@ Week | Day | Date     | Activity               | Time & Place           |
 4    | THU | 07/02/20 | Graduate School        | 5 - 630 pm, Google Meet|
 5    | THU | 07/09/20 | Online Profile         | 5 - 630 pm, Google Meet|
 6    | THU | 07/16/20 | Coding Necessities     | 5 - 630 pm, Google Meet|
-7    | THU | 07/23/20 | Coding for Scientists  | 5 - 630 pm, Google Meet|
+7    | THU | 07/23/20 | Coding Necessities 2   | 5 - 630 pm, Google Meet|
 8    | THU | 07/30/20 | Bioinformatics I       | 5 - 630 pm, Google Meet|
 9    | THU | 08/06/20 | Bioinformatics II      | 5 - 630 pm, Google Meet|
 10   | THU | 08/13/20 | Research Communication | 5 - 630 pm, Google Meet|
