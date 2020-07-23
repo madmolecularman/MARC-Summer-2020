@@ -1,0 +1,60 @@
+---
+title: "Coding Necessities Excercises"
+author: "Jacob M. Green"
+date: "7/22/2020"
+output: word_document
+---
+
+# Set-up
+
+In order to work with this assignment you will need to access a UNIX terminal in your operating system.
+- MAC users go to Utilities -> Command + spacebar -> type "terminal" -> select terminal icon
+- Windows users download git-bash here: https://gitforwindows.org/, progress through installation by accepting the recommended settings, open start menu, type git-bash, open application
+
+The folder that we are working in for this assignment is hosted through the MARC Summer 2020 Github site. For this instance only I would like you to blindly copy and paste the following your commands into your terminal window.
+
+```
+cd ~
+curl -L https://github.com/madmolecularman/MARC-Summer-2020/blob/master/resources/coding/shell_genomics_data.zip
+unzip shell_genomics_data.zip
+cd shell_genomics_data
+```
+
+# FASTQ files
+[Pat Schloss](http://www.med.umich.edu/microbio/bio/schloss.htm) did  an experiment and want to look at the bacterial communities of mice in at two time points using 16S sequencing. They had 10 mice in one treatment and 9 in another. They also sequenced a Mock community, so we can check the quality of the data. So, are 20 samples all together done with paired-end Illumina MiSeq sequencing.
+
+The data comes back from the sequencing center as FASTQ files, and
+we stick them all in a folder called MiSeq. This data is actually
+the data we're going to use for several sections of the course.
+
+We want to be able to look at these files and do some things with them.
+
+FASTQ format normally uses four lines per sequence
+    * *Line 1* begins with an @ character and is followed by a sequence identifier and an optional description
+    * *Line 2* is the raw sequence letters
+    * *Line 3* begins with a '+' character and is optionall followed by the same sequence identifier again
+    * *Line 4* encodes the quality values for the sequence in Line 2, and must contain the same number of symbols as letters in the sequence
+
+# Excercise 1
+
+1. Navigate to the MiSeq directory
+2. Rename stability.files to stability.files_IMPORTANT
+3. Create a directory in the MiSeq directory called new
+4. Then, copy the stability.files_IMPORTANT file into new direcotry and call it stability.files
+5. Remove new directory
+
+# Excercise 2
+
+1. Move around in the 'hidden' directory and try to find the file 'youfoundit.txt'. 
+2. Is there another way to *find* this file?
+3. Try finding the 'anotherfile.txt' file without changing directories
+4. How might you list all of the '.txt' files in the hidden directory?
+
+# Excercise 3
+
+1. Start in shell_genomics_data/ and use one short command to print the contents of all the files in the ~/shell_genomics_data/MiSeq directory
+2. Use one command to print the contents of these files: F3D141_S207L001_R1_001.fastq and F3D141_S207L001_R2_001.fastq
+3. Use one command to print the contents of all the files that are the first pair of sequences for each library sequenced (Hint: All of these files would contain R1 in their name)
+
+Bonus: Find the line number in your history for when you listed the command to show the contents of the stability .files and reissue that command
+
