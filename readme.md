@@ -53,7 +53,7 @@ Updated CV/Academic Resume | July 9th                        |
 Midsummer Reflection       | July 23rd                       |
 Reseach Planning Guide*    | August 6th (or by arrangement)  |
 Finding a research lab**   | August 6th (or by arrangement)  |
-Coding project             | August 13th                     |
+Coding excercises          | August 13th                     |
 Draft Presentation         | August 17th                     |
 Final Presentation         | August 20th                     |
 End of Summer Reflection   | August 27th                     | 

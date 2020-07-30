@@ -77,11 +77,42 @@ Once you have hosted the session and completed the reflection share your complet
 
 **1. What worked in the session? What was successful?**
 
+Our quick session on how we see DNA was informative. I was able to dig into some of the experiences trainees have had working with DNA in the classes an research. They were able to personally share those experiences. I am trying to incorporate more opportunities where students can share that knowledge. 
+
 **2. What did trainees learn? How do you know?**
+
+|Command     |Function          |
+|:----------:|------------------|
+|**`head`**      |prints the first lines of a file|
+|**`tail`**      |prints the last lines of a file|
+|**`less`**      |allows you to browse a file (exit with **`q`** key)|
+|**`wc`**       |count lines, words, and characters in a file|
+|**`cp`**      |copy a file or directory (use with caution)|
+|**`mv`**      |mv a file or directory (use with caution)|
+|**`rm`**      |delete a file or directory (use with caution)|
+|**`mkdir`**       |create a directory|
+|**`rmdir`**     |delete an empty directory|
+|**`nano`**     |create and edit plain text files at the command line|
+
+
+<h4><i>Special characters introduced:</i></h4>
+
+|Characters     | Meaning          |
+|:----------:|------------------|
+| **`.`** | specifies the current working directory |
+|**`|`**      |a "pipe" allows stringing together multiple commands| 
+|**`>`**      |sends output to a file (**overwrites** target file)| 
+
+These were covered throughout the coding lesson. There were times during each lessons that I checked in and asked  if there were questions. Every other time there were clarifying questions and chances fro us to dive deeper into the difficult concepts
 
 **3. What would you change about your session today?**
 
+I would change the warm up. I think I can use that time for them to actually practice commandsand open up the binder.
+
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
+
+Since many of them are completeing summer coursework and other research programs, I did not reccomend work. At this point I felt as if more work would be counterintuitive. I did let them know that the midsummer reflectionw as "due" at midnight.
 
 **5. What are you considering as good use of next week's session?**
 
+I want to use 2 warm up excercises to review commands we have learned so far, finish redirectors/wildcards, and moving into the glorious commands.
