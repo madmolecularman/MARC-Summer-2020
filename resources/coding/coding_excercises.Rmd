@@ -14,11 +14,30 @@ In order to work with this assignment you will need to access a UNIX terminal in
 
 The folder that we are working in for this assignment is hosted through the MARC Summer 2020 Github site. For this instance only I would like you to blindly copy and paste the following your commands into your terminal window.
 
+# For MAC
+
 ```
 cd ~
-curl -L https://github.com/madmolecularman/MARC-Summer-2020/blob/master/resources/coding/shell_genomics_data.zip
+curl -LO https://github.com/madmolecularman/MARC-Summer-2020/blob/master/resources/coding/shell_genomics_data.zip
 unzip shell_genomics_data.zip
 cd shell_genomics_data
+```
+
+# For Git Bash
+``` 
+cd ~/Desktop
+curl -LO https://github.com/madmolecularman/MARC-Summer-2020/blob/master/resources/coding/shell_genomics_data.zip
+unzip shell_genomics_data.zip
+cd shell_genomics_data
+```
+
+You should see something like this if the file transfer is complete
+
+```
+ % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   180  100   180    0     0    845      0 --:--:-- --:--:-- --:--:--   845
+100 47.5M  100 47.5M    0     0  2731k      0  0:00:17  0:00:17 --:--:-- 2860k
 ```
 
 # FASTQ file format review
