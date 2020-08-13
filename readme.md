@@ -41,8 +41,8 @@ Week | Day | Date     | Activity               | Time & Place           |
 8    | THU | 07/30/20 | Bioinformatics I       | 5 - 630 pm, Google Meet|
 9    | THU | 08/06/20 | Bioinformatics II      | 5 - 630 pm, Google Meet|
 10   | THU | 08/13/20 | Research Communication | 5 - 630 pm, Google Meet|
-11   | THU | 08/20/20 | Open session           | 5 - 630 pm, Google Meet|
-11   | FRI | 08/21/20 | Virtual Presentations  | TBD                    |
+11   | THU | 08/20/20 | SRE presentations      | 5 - 630 pm, Google Meet|
+
 
 ### Deliverables
 
@@ -53,9 +53,8 @@ Updated CV/Academic Resume | July 9th                        |
 Midsummer Reflection       | July 23rd                       |
 Reseach Planning Guide*    | August 6th (or by arrangement)  |
 Finding a research lab**   | August 6th (or by arrangement)  |
-Coding excercises          | August 13th                     |
-Draft Presentation         | August 17th                     |
-Final Presentation         | August 20th                     |
+Coding excercises          | August 17th                     |
+Summer Presentation        | August 20th                     |
 End of Summer Reflection   | August 27th                     | 
 Research Abstract*         | September 11th (ABRCMS site)    |
 

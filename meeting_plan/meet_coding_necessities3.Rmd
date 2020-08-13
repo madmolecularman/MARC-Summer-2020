@@ -32,7 +32,6 @@ Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
 
 
-
 ## Step 2: Plan your session based on who is attending in the lecture and meeting with the instructor
 When planning your sessions remember to stay flexible with the actual implementation of your session plan. Trainees may come prepared with their own questions and agenda. Stay open to their requests. Useful handouts; **Bloom's Taxonomy, Learning Outcome ABC's, S.M.A.R.T, Strategy Du Jour.**
 
@@ -42,27 +41,78 @@ Describe what you would like to see your trainees be able to do by the end of yo
 2. **Check-in**
 Allow for a 10-20 minute period where trainees are able to communicate with coordinators and each other about the weeks goals, trials, and tribulations.
 
+* How are you doing this week?
+* Concerns?
+* Join BVCN slack group
+* Midsummer Reflection Update
+* Finding a Research Lab or Research Planning Guide
+
 3. **Warm-up**
 Describe a 10-15 minute opportunity that will help trainees to organize, prioritize, define, identify, label, list, record, or review, ideas.
+
+1. Get into binder
+2. Navigate to folder with .fq files
+3. Create a readme.txt file with an explanation of fastq format
+    * This directory contains .fq, .tsv, and .txt files for samples 1-300
+    * Fastq format is:
+      * Line1: Identifier
+      * Line2: Sequence
+      * Line3: ‘+’ sign
+      * Line4: Quality scores
+4. Create copy of readme.txt and move to experiment directory
+
+Bonus: 
+make new fastq_file directory in all_samples/
+move all fastq files into the new fastq_file directory
 
 4. **Most of the session time**
 Describe how you will utilize the meeting activity (50-60 minutes) to help trainees achieve the learning objectives you have developed.
 
+We will be working through lessons 3 and 4 in the Happy Belly Bioinformatics coding exercise.
+
 5. **Wrap-up**
 Describe a 10-15 minute closing opportunity that will help trainees summarize their work in today's session. 
 
-Reflect on what to move from the want to know category to the learn category or add things that you learned. What else do you still want to know or feel like we have not addressed?
+What was the easiest concept today? Why?
+What was the most difficult? Why?
 
 ## Step 3: Reflect on this week's session
 Once you have hosted the session and completed the reflection share your completed session plan with your coordinators and review all of the activites from that week.
 
 **1. What worked in the session? What was successful?**
 
+There was a smaller cohort here in the session. Only 4 people to start and then it reduced down to 3. It made the session more engaging. There seems to be a comfortability issue that happens as a group gets larger. I felt that the warm-up was great. It took a long while to get through, but in letting the trainees mull through this they got a lot more out of the exercise. We also had a longer discussion at the end of the session. 
+
 **2. What did trainees learn? How do you know?**
+
+|Character/commands    |Function          |
+|:----------:|------------------|
+|**`|`**      |a "pipe" allows stringing together multiple commands| 
+|**`>`**      |sends output to a file (**overwrites** target file)| 
+|**`>>`**      |sends output to a file (appends to target file)| 
+|**`*`**      |represents any character appearing any number of times|
+|**`?`**      |represents any character appearing only once| 
+|**`cut`**      |cuts columns from tables| 
+|**`grep`**      |finds matching text and returns lines| 
+|**`wc`**       |count lines, words, and characters in a file|
+|**`cp`**      |copy a file or directory (use with caution)|
+|**`mv`**      |mv a file or directory (use with caution)|
+|**`rm`**      |delete a file or directory (use with caution)|
+|**`mkdir`**       |create a directory|
+|**`rmdir`**     |delete an empty directory|
+|**`nano`**     |create and edit plain text files at the command line|
+
+This lesson was the culmination of all of our other sessions. We used many of these commands and characters through the warm up and the main activity. Trainees exemplified what they learned through communicating their commands used to complete the warm-up and through taking up examples during the main activity. Threy also communicated what was easy and what was hard for them with specific examples of commands and why they were challenging.
 
 **3. What would you change about your session today?**
 
+I would think about better ways to ask coding questions. There is this standard that I have seen across classes and workshops. For some reason the format does not seem to effectively communicate what they are to do. I think it is because we do not use language that is comparable to the language we use to describe commands. So we expect others to take the language we use convert it to their own and then identify the proper command and syntax. 
+
 **4. What specific content areas and study strategies did you recommend that trainees pursue before next week's sessions?**
 
+I recommended the coding exercises and finishing up the finding a research lab or summer research palnning guide. 
+
 **5. What are you considering as good use of next week's session?**
+
+Live coding demonstration of assembly programs using R as the interface or we can go over the coding exercises.
 

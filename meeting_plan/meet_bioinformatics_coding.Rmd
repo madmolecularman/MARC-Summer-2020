@@ -1,5 +1,5 @@
 ---
-title: "MARC Session Planning Form"
+title: "MARC Bioinformatics Coding: Genome Assembly"
 output:
   word_document: default
   html_document: default
@@ -11,16 +11,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Leader Name: Jacob Green | Course: Planning form temp     |
 |--------------------------|--------------------------------|
-| Date created:            | Date implemented:              |
-| Week in course:          | Resources:                     |
+| Date created: 8/4/2020   | Date implemented:8/6/2020      |
+| Week in course: 9        | Resources: Happy Belly Bioinformatics, EMBL NGS Practical, PCFB examples|
 
 ## Step 1: Meet with coordinators and discuss the following:
 Useful resource; **"Identifying the Difficulties with Difficult Ideas"**
 
 1. List the most important concepts and skill introduced in this topic
     a. Concepts
-
+        *
+        *
     b. Skills
+        *
+        *
 
 2. Which concepts and skills can be the most challenging for researchers this week? Why?
 
